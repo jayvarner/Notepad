@@ -3,7 +3,6 @@ layout: post
 title: "Feedback is Key"
 categories: [school, ux]
 date:   2016-05-29 08:23:41 -0500
-
 author: jayvarner
 ---
 Many things stuck with me this week in my school readings. One was the cost of drill bits vs the cost of holes. Drilled holes are very relevant in my life right now. I have lots to say on the topic. However, the more salient theme throughout the week was the need to give users feedback. Both [Norman](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) and [Johnson](https://archive.org/details/DesigningWithTheMindInMind) directly and indirectly stress this need.
